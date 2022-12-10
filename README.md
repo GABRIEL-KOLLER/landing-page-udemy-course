@@ -9,3 +9,5 @@ utilizando HTML e CSS. Mas com uma base e estrutura bem legal para futuros proje
 - CSS3
 - Git e Github
 - Netlify para o Deploy
+
+Deploy: https://itprofessionalday.netlify.app/
